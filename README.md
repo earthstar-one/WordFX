@@ -10,6 +10,7 @@ Participation, while wholly voluntary, is critical to WordFX having the meaningf
 
 Participation can take many forms:
 - Contribute data in the form of WordFX-associated natural language tables
+- Collaborate on adapting data so as to optimize capacity for interlinking (e.g. apply Wordnet standards) 
 - Provide feedback on the accuracy of translations to other languages from original English
 - Initiate translation to a natural language not yet documented in WordFX
 
