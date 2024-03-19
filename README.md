@@ -1,6 +1,6 @@
 # Word FX
 
-WordFX is a registered not-for-profit (501c3) operating from VT | USA. 
+WordFX is in process to be recognized as a not-for-profit (501c3) operating from VT | USA. 
 
 It's mission is to provide low or no cost language resources and digital tools to enhance sense-making though global language disambiguation. 
 
