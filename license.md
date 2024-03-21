@@ -1,3 +1,5 @@
+What is licensed are the WordFX values, when used categorically with outside datasets or collectively as a sense-making tool, to achieve the aims set out in WordFX's mission. The attribution license below applies to datasets and documentation that utilize WordFX values. Restrictions to use means that WordFX values will be maintained in accord with the data standards set by WordFX.org. 
+
 Attribution 4.0 International
 
 =======================================================================
