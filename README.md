@@ -2,7 +2,7 @@
 
 WordFX is in process to become federally recognized as a not-for-profit (501c3) already incorporated in VT | USA. 
 
-Its mission is to provide low or no cost language resources and digital tools to enhance sense-making though global language disambiguation. 
+Its mission is to provide low or no cost language resources and digital tools to enhance sense-making though meaningful natural language disambiguation. 
 
 The organization's language and technology resources and digital tools, unless otherwise specificed, are open to anyone anywhere on the planet. 
 
