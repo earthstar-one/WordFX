@@ -1,4 +1,4 @@
-What is licensed are the WordFX values, when used categorically with outside datasets or collectively as a sense-making tool, to achieve the aims set out in WordFX's mission. The attribution license below applies to datasets and documentation that utilize WordFX values. Restrictions to use means that WordFX values will be maintained in accord with the data standards set by WordFX.org. 
+What is licensed are the WordFX MetaLanguageAnchor (MLX) and NaturalLanguageAnchor (NLX) values, used categorically with outside datasets or collectively as a sense-making tool, to achieve the aims set out in WordFX's mission. The only restriction to their use is a data practice: commit to not altering (including limiting or expanding) those values contained in those WordFX MLX and NLX datasets and values provided here. By using WordFX you commit to maintain the original values in accord with their meanings as indicated by other parameters and values associated by WordFX.org. The attribution license below applies to datasets and documentation that utilize WordFX values.
 
 Attribution 4.0 International
 
