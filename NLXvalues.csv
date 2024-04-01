@@ -1,0 +1,177 @@
+﻿pk-NLX,root meaning,MLXtype-desc,level,MLX-orient,MLX-nav,MLXtype,connotation
+wfx001,particle,iterate.balance,1,AB,EH,AB.EH,"body, natural object, distinguishability"
+wfx002,vehicle,iterate.balance,1,AB,EH,AB.EH,carrier
+wfx003,mode,iterate.balance,1,AB,EH,AB.EH,"precursor, vessel, unrealized, subjunctive"
+wfx004,rapport,embed.balance,2,AC,EH,AC.EH,affinity
+wfx005,intuition,embed.balance,2,AC,EH,AC.EH,gnosis
+wfx006,bliss,embed.balance,2,AC,EH,AC.EH,gladness
+wfx007,acceptance,iterate.balance,3,AB,EH,AB.EH,
+wfx008,will,iterate.balance,3,AB,EH,AB.EH,volition
+wfx009,wonder,iterate.balance,3,AB,EH,AB.EH,marvel
+wfx010,permanence,embed.balance,4,AC,EH,AC.EH,lasting
+wfx011,conscientiousness,embed.balance,4,AC,EH,AC.EH,"cognizant, scrupulousness"
+wfx012,separateness,embed.balance,4,AC,EH,AC.EH,"distinctness, boundaried"
+wfx013,perspective,iterate.balance,5,AB,EH,AB.EH,"stance, appearance"
+wfx014,logic,iterate.balance,5,AB,EH,AB.EH,system of rules
+wfx015,intent,iterate.balance,5,AB,EH,AB.EH,"design, significance"
+wfx016,being,embed.balance,6,AC,EH,AC.EH,existing
+wfx017,knowing,embed.balance,6,AC,EH,AC.EH,informed
+wfx018,feeling,embed.balance,6,AC,EH,AC.EH,"sense experience, sentiment"
+wfx019,justice,iterate.balance,7,AB,EH,AB.EH,rightfulness
+wfx020,power,iterate.balance,7,AB,EH,AB.EH,"aptitude, accomplishment"
+wfx021,love,iterate.balance,7,AB,EH,AB.EH,attend to
+wfx022,material content,embed.balance,8,AC,EH,AC.EH,"tangible, substantial"
+wfx023,mental content,embed.balance,8,AC,EH,AC.EH,
+wfx024,emotional content,embed.balance,8,AC,EH,AC.EH,
+wfx025,transient,iterate.novelty,1,AB,EF,AB.EF,
+wfx026,dispersing,iterate.novelty,1,AB,EF,AB.EF,
+wfx027,momentum,iterate.novelty,1,AB,EF,AB.EF,
+wfx028,neglect,embed.novelty,2,AC,EF,AC.EF,disregard
+wfx029,duty,embed.novelty,2,AC,EF,AC.EF,over-care
+wfx030,comfort,embed.novelty,2,AC,EF,AC.EF,salvation
+wfx031,joy,iterate.novelty,3,AB,EF,AB.EF,delight
+wfx032,courage,iterate.novelty,3,AB,EF,AB.EF,
+wfx033,presence,iterate.novelty,3,AB,EF,AB.EF,self-possessed
+wfx034,boredom,embed.novelty,4,AC,EF,AC.EF,tiresome
+wfx035,craziness,embed.novelty,4,AC,EF,AC.EF,
+wfx036,isolation,embed.novelty,4,AC,EF,AC.EF,--
+wfx037,arising,iterate.novelty,5,AB,EF,AB.EF,a posteriori
+wfx038,flexibility,iterate.novelty,5,AB,EF,AB.EF,contingency
+wfx039,consideration,iterate.novelty,5,AB,EF,AB.EF,
+wfx040,laziness,embed.novelty,6,AC,EF,AC.EF,
+wfx041,ignorance,embed.novelty,6,AC,EF,AC.EF,
+wfx042,rage,embed.novelty,6,AC,EF,AC.EF,
+wfx043,forgiveness,iterate.novelty,7,AB,EF,AB.EF,redemption
+wfx044,initiative,iterate.novelty,7,AB,EF,AB.EF,
+wfx045,longing,iterate.novelty,7,AB,EF,AB.EF,yearn
+wfx046,probability,embed.novelty,8,AC,EF,AC.EF,tendencies
+wfx047,uncertainty,embed.novelty,8,AC,EF,AC.EF,ambiguity
+wfx048,chaos,embed.novelty,8,AC,EF,AC.EF,disorder
+wfx049,persistent,iterate.pattern,1,AB,EG,AB.EG,
+wfx050,gathering,iterate.pattern,1,AB,EG,AB.EG,
+wfx051,position,iterate.pattern,1,AB,EG,AB.EG,
+wfx052,consensus,embed.pattern,2,AC,EG,AC.EG,consent
+wfx053,dualism,embed.pattern,2,AC,EG,AC.EG,oversimplification
+wfx054,denial,embed.pattern,2,AC,EG,AC.EG,
+wfx055,attachment,iterate.pattern,3,AB,EG,AB.EG,
+wfx056,control,iterate.pattern,3,AB,EG,AB.EG,
+wfx057,fear,iterate.pattern,3,AB,EG,AB.EG,
+wfx058,anticipation,embed.pattern,4,AC,EG,AC.EG,
+wfx059,morality,embed.pattern,4,AC,EG,AC.EG,
+wfx060,apathy,embed.pattern,4,AC,EG,AC.EG,indifferent
+wfx061,assumptions,iterate.pattern,5,AB,EG,AB.EG,a priori
+wfx062,rigidity,iterate.pattern,5,AB,EG,AB.EG,necessity
+wfx063,determination,iterate.pattern,5,AB,EG,AB.EG,
+wfx064,consistency,embed.pattern,6,AC,EG,AC.EG,
+wfx065,justification,embed.pattern,6,AC,EG,AC.EG,
+wfx066,sorrow,embed.pattern,6,AC,EG,AC.EG,
+wfx067,retribution,iterate.pattern,7,AB,EG,AB.EG,karma
+wfx068,limits,iterate.pattern,7,AB,EG,AB.EG,regulations
+wfx069,closeness,iterate.pattern,7,AB,EG,AB.EG,
+wfx070,causation,embed.pattern,8,AC,EG,AC.EG,
+wfx071,proof,embed.pattern,8,AC,EG,AC.EG,
+wfx072,awe,embed.pattern,8,AC,EG,AC.EG,mystery of the unknown
+wfx073,hidden,iterate.exist,1,AB,FG,AB.FG,
+wfx074,nothingness,iterate.exist,1,AB,FG,AB.FG,
+wfx075,possibility,iterate.exist,1,AB,FG,AB.FG,
+wfx076,crown (divine connection),iterate.confide,3,AB,FH,AB.FH,sky
+wfx077,heart (centered),iterate.confide,3,AB,FH,AB.FH,center
+wfx078,ground (earth connection),iterate.confide,3,AB,FH,AB.FH,ground
+wfx079,source,iterate.connect,5,AB,FI,AB.FI,authority
+wfx080,potential,iterate.connect,5,AB,FI,AB.FI,
+wfx081,impetus,iterate.connect,5,AB,FI,AB.FI,initiative
+wfx082,purpose,iterate.respond,7,AB,FJ,AB.FJ,journey
+wfx083,change,iterate.respond,7,AB,FJ,AB.FJ,
+wfx084,commonality,iterate.respond,7,AB,FJ,AB.FJ,commonality
+wfx085,convergence,embed.implicit,2,AC,GH,AC.GH,partnership
+wfx086,creativity,embed.implicit,2,AC,GH,AC.GH,spark
+wfx087,rejection,embed.implicit,2,AC,GH,AC.GH,
+wfx088,admiration,embed.influence,2,AC,GI,AC.GI,adoration
+wfx089,media,embed.influence,2,AC,GI,AC.GI,
+wfx090,domination,embed.influence,2,AC,GI,AC.GI,dictate
+wfx091,celebrity,embed.explicit,2,AC,GJ,AC.GJ,fame
+wfx092,devotion,embed.explicit,2,AC,GJ,AC.GJ,worship
+wfx093,grief,embed.explicit,2,AC,GJ,AC.GJ,
+wfx094,enduring,embed.implicit,4,AC,GH,AC.GH,resilience
+wfx095,nurturing,embed.implicit,4,AC,GH,AC.GH,survival
+wfx096,wounding,embed.implicit,4,AC,GH,AC.GH,hurt
+wfx097,hierarchy,embed.influence,4,AC,GI,AC.GI,status
+wfx098,ethics,embed.influence,4,AC,GI,AC.GI,
+wfx099,gluttony,embed.influence,4,AC,GI,AC.GI,demand
+wfx100,possessive ownership,embed.explicit,4,AC,GJ,AC.GJ,possessiveness
+wfx101,approval,embed.explicit,4,AC,GJ,AC.GJ,
+wfx102,shame,embed.explicit,4,AC,GJ,AC.GJ,disgust
+wfx103,competition,embed.implicit,6,AC,GH,AC.GH,
+wfx104,play,embed.implicit,6,AC,GH,AC.GH,
+wfx105,loss,embed.implicit,6,AC,GH,AC.GH,
+wfx106,rivalry,embed.influence,6,AC,GI,AC.GI,vendetta
+wfx107,laws,embed.influence,6,AC,GI,AC.GI,rules
+wfx108,violence,embed.influence,6,AC,GI,AC.GI,struggle
+wfx109,"vigilantism & ""causes""",embed.explicit,6,AC,GJ,AC.GJ,causes
+wfx110,protection,embed.explicit,6,AC,GJ,AC.GJ,
+wfx111,abandonment,embed.explicit,6,AC,GJ,AC.GJ,
+wfx112,disciplined activity,embed.implicit,8,AC,GH,AC.GH,
+wfx113,inquisitiveness,embed.implicit,8,AC,GH,AC.GH,questioning
+wfx114,disorientation,embed.implicit,8,AC,GH,AC.GH,confusion
+wfx115,orderliness,embed.influence,8,AC,GI,AC.GI,
+wfx116,guidance,embed.influence,8,AC,GI,AC.GI,
+wfx117,doubt,embed.influence,8,AC,GI,AC.GI,disturb
+wfx118,dogma,embed.explicit,8,AC,GJ,AC.GJ,doctrine
+wfx119,promises,embed.explicit,8,AC,GJ,AC.GJ,
+wfx120,despair,embed.explicit,8,AC,GJ,AC.GJ,resignation
+wfx121,stillness,iterate.boundless,1,AB,IJ,AB.IJ,calm
+wfx122,oneness,embed.boundless,2,AC,IJ,AC.IJ,
+wfx123,spirit,iterate.boundless,3,AB,IJ,AB.IJ,
+wfx124,perceptiveness,embed.boundless,4,AC,IJ,AC.IJ,
+wfx125,time,iterate.boundless,5,AB,IJ,AB.IJ,
+wfx126,story,embed.boundless,6,AC,IJ,AC.IJ,
+wfx127,greater good,iterate.boundless,7,AB,IJ,AB.IJ,
+wfx128,truth,embed.boundless,8,AC,IJ,AC.IJ,
+wfx129,existential coherence,iterate.axis,1,AB,IK,AB.IK,
+wfx130,instinct to be open,embed.axis,2,AC,IK,AC.IK,
+wfx131,rational self-awareness,iterate.axis,3,AB,IK,AB.IK,
+wfx132,internal reality perceptions,embed.axis,4,AC,IK,AC.IK,
+wfx133,rational connectedness,iterate.axis,5,AB,IK,AB.IK,
+wfx134,openness to other,embed.axis,6,AC,IK,AC.IK,
+wfx135,rational other-awareness,iterate.axis,7,AB,IK,AB.IK,
+wfx136,external reality perceptions,embed.axis,8,AC,IK,AC.IK,
+wfx137,emerging,iterate.vibe,1,AB,IL,AB.IL,
+wfx138,limitless,embed.vibe,2,AC,IL,AC.IL,
+wfx139,flowing,iterate.vibe,3,AB,IL,AB.IL,
+wfx140,empty,embed.vibe,4,AC,IL,AC.IL,
+wfx141,morphing,iterate.vibe,5,AB,IL,AB.IL,
+wfx142,heroic,embed.vibe,6,AC,IL,AC.IL,
+wfx143,achieving,iterate.vibe,7,AB,IL,AB.IL,actualizing self
+wfx144,objective,embed.vibe,8,AC,IL,AC.IL,
+wfx145,empty,iterate.constraint,1,AB,IM,AB.IM,meaninglessness
+wfx146,manipulation,embed.constraint,2,AC,IM,AC.IM,
+wfx147,wildness,iterate.constraint,3,AB,IM,AB.IM,
+wfx148,selfishness,embed.constraint,4,AC,IM,AC.IM,
+wfx149,superstitiousness,iterate.constraint,5,AB,IM,AB.IM,
+wfx150,radicalism,embed.constraint,6,AC,IM,AC.IM,
+wfx151,authoritarianism,iterate.constraint,7,AB,IM,AB.IM,
+wfx152,guardedness,embed.constraint,8,AC,IM,AC.IM,
+wfx153,mystery,iterate.re-present,1,AB,IN,AB.IN,
+wfx154,subtlety,embed.re-present,2,AC,IN,AC.IN,
+wfx155,ease,iterate.re-present,3,AB,IN,AB.IN,
+wfx156,mastery,embed.re-present,4,AC,IN,AC.IN,
+wfx157,magic,iterate.re-present,5,AB,IN,AB.IN,
+wfx158,hope,embed.re-present,6,AC,IN,AC.IN,
+wfx159,faith,iterate.re-present,7,AB,IN,AB.IN,
+wfx160,surprise,embed.re-present,8,AC,IN,AC.IN,
+wfx161,collective meaningfulness,iterate.capacity,1,AB,IO,AB.IO,
+wfx162,collective generativeness,embed.capacity,2,AC,IO,AC.IO,
+wfx163,collective self-awareness,iterate.capacity,3,AB,IO,AB.IO,
+wfx164,collective willingness,embed.capacity,4,AC,IO,AC.IO,
+wfx165,collective influence-awareness,iterate.capacity,5,AB,IO,AB.IO,
+wfx166,collective expression of values,embed.capacity,6,AC,IO,AC.IO,
+wfx167,collective other-awareness,iterate.capacity,7,AB,IO,AB.IO,
+wfx168,collective visionary growth,embed.capacity,8,AC,IO,AC.IO,
+wfx169,void,iterate.communion,1,AB,IP,AB.IP,nothingness
+wfx170,good faith,embed.communion,2,AC,IP,AC.IP,
+wfx171,internal realignment,iterate.communion,3,AB,IP,AB.IP,
+wfx172,sensuality,embed.communion,4,AC,IP,AC.IP,
+wfx173,present moment,iterate.communion,5,AB,IP,AB.IP,
+wfx174,character,embed.communion,6,AC,IP,AC.IP,
+wfx175,external realignment,iterate.communion,7,AB,IP,AB.IP,
+wfx176,revelation,embed.communion,8,AC,IP,AC.IP,
