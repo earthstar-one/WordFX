@@ -16,4 +16,6 @@ Participation can take many forms:
 
 To meaningfully sustain the aim of fruitful disambiguation, participation is always defined as efforts that maintain the consistent associative WordFX labeling of natural language fields as part of data storage, sharing, and interlinking. 
 
+The principles underlying WordFX disambiguation are documented in full, and not the property of WordFX. 
+
 Early adopters are needed! Be in touch to learn more. 
