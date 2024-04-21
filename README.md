@@ -1,6 +1,6 @@
 # Word FX
 
-WordFX is in process to become federally recognized as a not-for-profit (501c3) already incorporated in VT | USA. 
+WordFX is a public benefit non-profit incorporated in VT | USA. 
 
 Its mission is to provide low or no cost language resources and digital tools to enhance sense-making though meaningful natural language disambiguation. 
 
