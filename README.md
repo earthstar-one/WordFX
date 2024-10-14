@@ -18,4 +18,4 @@ To meaningfully sustain the aim of fruitful disambiguation, participation is alw
 
 The principles underlying WordFX disambiguation are documented in full, and not the property of WordFX. 
 
-Early adopters are needed! Be in touch to learn more. 
+Early adopters are needed! Be in touch to learn more. https://wordfx.org
